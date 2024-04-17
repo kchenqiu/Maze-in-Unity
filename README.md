@@ -8,6 +8,7 @@ Credits:
 Onari and Madison for Sprites and part of the code
 
 Maze generator inspirations: 
+
 https://github.com/c00pala/Unity-2D-Maze-Generator
 
 https://catlikecoding.com/unity/tutorials/maze/#a-prefab
